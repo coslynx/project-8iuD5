@@ -1,0 +1,9 @@
+import React from 'react';
+
+const AppleImage = () => {
+  return (
+    <img src="/images/apple1.jpg" alt="Apple" />
+  );
+};
+
+export default AppleImage;
